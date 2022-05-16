@@ -1,1 +1,3 @@
-source file1
+ource file1
+rez
+
