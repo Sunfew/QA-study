@@ -1,9 +1,1 @@
-tester
-ура
-Че это такое
-ADD popa
-
-hhtyhty
-;'pop'p[p[
-=======
-
+line
