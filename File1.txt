@@ -1,9 +1,0 @@
-123
-Check chec
-12312312fd
-Add line
-<<<<<<< HEAD
-
-ggggg
-=======
->>>>>>> 0b88d0598e72841beafaa768cfe06fab5c77ee1c
