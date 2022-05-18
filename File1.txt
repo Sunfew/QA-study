@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 line 23
 new brach line
 update
@@ -6,3 +7,8 @@ update
 line
 new brach line
 >>>>>>> df9708b82138393e89f88e2a3927511fb9bb8b69
+=======
+line 23
+new brach line
+update
+>>>>>>> origin/main
